@@ -204,51 +204,51 @@
 👉Overthewire - https://lnkd.in/egC9cbf4
 
 👉 𝗟𝗘𝗔𝗥𝗡
-🌟 An Introduction to Bug Bounty Hunting by Nicole Kow
+👉 An Introduction to Bug Bounty Hunting by Nicole Kow
 https://lnkd.in/e4dhZ_6Z
 
-🌟 How to get into bug bounty by Katie Paxton-Fear
+👉 How to get into bug bounty by Katie Paxton-Fear
 https://lnkd.in/eEf6b5AN
 
-🌟 How to get started with Bug Bounty Hunting by Daniel Kelley
+👉 How to get started with Bug Bounty Hunting by Daniel Kelley
 https://lnkd.in/e6by-NVD
 
-🌟 Practical Bug Bounty by TCM Security
+👉 Practical Bug Bounty by TCM Security
 https://lnkd.in/eSVB42yQ
 
-🌟Bug Bounty Beginner Course by Ryan John
+👉Bug Bounty Beginner Course by Ryan John
 https://lnkd.in/eN3aBDmX
 
-🌟 Bug bounty Beginner's Roadmap by Ansh Bhawnani
+👉 Bug bounty Beginner's Roadmap by Ansh Bhawnani
 https://lnkd.in/e4kyTh72
 
-🌟 my updated bug bounty resources by Farah Hawa
+👉 my updated bug bounty resources by Farah Hawa
 https://lnkd.in/ea-Nn2KB
 
-🌟 The Bug Hunter Handbook by Gowthams
+👉 The Bug Hunter Handbook by Gowthams
 https://lnkd.in/eW6awYWU
 
-🌟 “AllAboutBugBounty” by daffainfo
+👉 “AllAboutBugBounty” by daffainfo
 https://lnkd.in/evPuwGKZ
 
-🌟 Smart Contract Bug Bounties: Beginner’s Guide To Web3 Bug Hunting by Hacken
+👉 Smart Contract Bug Bounties: Beginner’s Guide To Web3 Bug Hunting by Hacken
 https://lnkd.in/eTH8N79C
 
-🌟 Bug Bounty Hunters Setups and Writeups by Joas A Santos
+👉 Bug Bounty Hunters Setups and Writeups by Joas A Santos
 https://lnkd.in/eHcDP8xq
 
 👉 𝗙𝗜𝗡𝗗 𝗣𝗥𝗢𝗚𝗥𝗔𝗠𝗦 𝗔𝗡𝗗 𝗣𝗟𝗔𝗧𝗙𝗢𝗥𝗠𝗦
-🌟 A list of bug bounty platforms by disclose
+👉 A list of bug bounty platforms by disclose
 https://lnkd.in/e27qdTkn
 
-🌟 A list of bug bounty programs by vpnmentor:
+👉 A list of bug bounty programs by vpnmentor:
 https://lnkd.in/eECUuYgp
 
-🌟 Bug bounty programs for smart contract by Consensys
+👉 Bug bounty programs for smart contract by Consensys
 https://lnkd.in/eBcuqGRg
 
 👉 𝗩𝗔𝗥𝗜𝗢𝗨𝗦 𝗣𝗢𝗜𝗡𝗧 𝗢𝗙 𝗩𝗜𝗘𝗪𝗦
-🌟 Critical Thinking - Bug Bounty Podcast by Justin Gardner
+👉 Critical Thinking - Bug Bounty Podcast by Justin Gardner
 https://lnkd.in/eTYgZQ4W
 
 
@@ -430,42 +430,42 @@ https://lnkd.in/eY2jD3nv
 ## Escalação de Privilegios
 
 👉 𝗪𝗵𝗮𝘁 𝗶𝘀 𝗣𝗿𝗶𝘃𝗶𝗹𝗲𝗴𝗲 𝗘𝘀𝗰𝗮𝗹𝗮𝘁𝗶𝗼𝗻?
-🌟 Cybersecurity 101 - What is Privilege escalation on CrowdStrike 
+👉 Cybersecurity 101 - What is Privilege escalation on CrowdStrike 
 https://lnkd.in/e4diwQrf
 
-🌟 Privilege Escalation Attack and defend explained on BeyondTrust
+👉 Privilege Escalation Attack and defend explained on BeyondTrust
 https://lnkd.in/enQ-AMhB
 
 👉 𝗪𝗶𝗻𝗱𝗼𝘄𝘀 𝗣𝗿𝗶𝘃𝗶𝗹𝗲𝗴𝗲 𝗘𝘀𝗰𝗮𝗹𝗮𝘁𝗶𝗼𝗻
-🌟 My Pentips on Windows Privilege escalation on CSbyGB - Pentips
+👉 My Pentips on Windows Privilege escalation on CSbyGB - Pentips
 https://lnkd.in/eXgR_Eua
 
-🌟 Windows Privilege Escalation on PayloadsAllTheThings
+👉 Windows Privilege Escalation on PayloadsAllTheThings
 https://lnkd.in/e7rGg5MF
 
-🌟 Windows Privesc guide on absolomb’s security blog
+👉 Windows Privesc guide on absolomb’s security blog
 https://lnkd.in/eBfktNes
 
-🌟 Windows Local Privilege Escalation checklist on HackTricks
+👉 Windows Local Privilege Escalation checklist on HackTricks
 https://lnkd.in/eJqFJy8n
 
 👉 𝗟𝗶𝗻𝘂𝘅 𝗣𝗿𝗶𝘃𝗶𝗹𝗲𝗴𝗲 𝗘𝘀𝗰𝗮𝗹𝗮𝘁𝗶𝗼𝗻
-🌟 My Pentips on Linux Privilege Escalation on CSbyGB - Pentips
+👉 My Pentips on Linux Privilege Escalation on CSbyGB - Pentips
 https://lnkd.in/ekx-xdfm
 
-🌟 Linux Privilege Escalation on PayloadsAllTheThings
+👉 Linux Privilege Escalation on PayloadsAllTheThings
 https://lnkd.in/ePmZSw6t
 
-🌟 Basic Linux Privilege Escalation on g0tm1lk’s blog
+👉 Basic Linux Privilege Escalation on g0tm1lk’s blog
 https://lnkd.in/e7dCUQXM
 
-🌟 Guide Linux Privilege Escalation on Payatu
+👉 Guide Linux Privilege Escalation on Payatu
 https://lnkd.in/eMD3JRbE
 
-🌟 A curated list of Unix Binaries to bypass local security restrictions by GTFOBins
+👉 A curated list of Unix Binaries to bypass local security restrictions by GTFOBins
 https://lnkd.in/eucjKtCP
 
-🌟 Linux Privilege Escalation Checklist on HackTricks
+👉 Linux Privilege Escalation Checklist on HackTricks
 https://lnkd.in/ef_wgGex
 
 
@@ -474,78 +474,83 @@ https://lnkd.in/ef_wgGex
 
 ### Bypass using Msfvenom
 
-- https://lnkd.in/dAsVuCwp
+👉 https://lnkd.in/dAsVuCwp
 
-- https://lnkd.in/d3rJPZDC
+👉 https://lnkd.in/d3rJPZDC
+
 
 ### Bypass using Alternative Tools
 
-- https://lnkd.in/e2p42bvZ - EXOCET
+👉 https://lnkd.in/e2p42bvZ - EXOCET
 
-- https://lnkd.in/dUxb35DA - SharpSploit
+👉 https://lnkd.in/dUxb35DA - SharpSploit
 
-- https://lnkd.in/ddYxZHae - Veil Evasion
+👉 https://lnkd.in/ddYxZHae - Veil Evasion
 
-- https://lnkd.in/dcErruRU - peCloak
+👉 https://lnkd.in/dcErruRU - peCloak
 
-- https://lnkd.in/dhQrBBvX - SharpShooter
+👉 https://lnkd.in/dhQrBBvX - SharpShooter
 
-- https://lnkd.in/dQZvb5TQ - Donut
+👉 https://lnkd.in/dQZvb5TQ - Donut
 
-- https://lnkd.in/dUhRkDSZ - Vulcan
+👉 https://lnkd.in/dUhRkDSZ - Vulcan
 
-- https://lnkd.in/dBt25V38 - OffensivNim
+👉 https://lnkd.in/dBt25V38 - OffensivNim
 
-- https://lnkd.in/eVZrPGF - AvLator
+👉 https://lnkd.in/eVZrPGF - AvLator
 
-- https://lnkd.in/dg5UTDzx - AtomPePacker
+👉 https://lnkd.in/dg5UTDzx - AtomPePacker
 
 
 ### Bypass using Powershell
 
-- https://lnkd.in/dQ98cqnY
+👉 https://lnkd.in/dQ98cqnY
 
-- https://lnkd.in/d-Xsu6Fh - PyFuscation
+👉 https://lnkd.in/d-Xsu6Fh - PyFuscation
 
-- https://lnkd.in/dgjjAqsm - Invoke Obfuscation
+👉 https://lnkd.in/dgjjAqsm - Invoke Obfuscation
 
-- https://lnkd.in/d4VigsJy - Bypass the Powershell Execution Policy
+👉 ttps://lnkd.in/d4VigsJy - Bypass the Powershell Execution Policy
 
-- https://lnkd.in/dA4jbk_B - Powersploit (Retired)
+👉 https://lnkd.in/dA4jbk_B - Powersploit (Retired)
 
-- https://lnkd.in/d9HC5R5C - AMSI Bypass Powershell
+👉 https://lnkd.in/d9HC5R5C - AMSI Bypass Powershell
 
-- https://lnkd.in/dbMCP5Jt - Bypass Scripts Powershell
+👉 ttps://lnkd.in/dbMCP5Jt - Bypass Scripts Powershell
+
+
 
 ### Bypass Techniques
 
-- https://lnkd.in/djbHvS-7 - DLL Unhooking
 
-- https://lnkd.in/dDpJi3r2
+👉 https://lnkd.in/djbHvS-7 - DLL Unhooking
 
-- https://lnkd.in/duzg5a_G
+👉 https://lnkd.in/dDpJi3r2
 
-- https://lnkd.in/dRMk-SeR - DInvoke
+👉 https://lnkd.in/duzg5a_G
 
-- https://lnkd.in/dsVDAkFA - PeLoader
+👉 https://lnkd.in/dRMk-SeR - DInvoke
 
-- https://lnkd.in/d7gKqgfp - Invoke ReflectivePEInjection
+👉 https://lnkd.in/dsVDAkFA - PeLoader
 
-- https://lnkd.in/dA-uTcmK - HellsGate
+👉 https://lnkd.in/d7gKqgfp - Invoke ReflectivePEInjection
 
-- https://lnkd.in/dj_nQuZj - Antivirus Artifacts
+👉 https://lnkd.in/dA-uTcmK - HellsGate
 
-- https://lnkd.in/dTgQqM58 DLL Proxying and Sideloading
+👉 https://lnkd.in/dj_nQuZj - Antivirus Artifacts
 
-- https://lnkd.in/dzVXBBtz - Reflection in C#
+👉 https://lnkd.in/dTgQqM58 DLL Proxying and Sideloading
 
-- https://lnkd.in/duH2dniY
+👉 https://lnkd.in/dzVXBBtz - Reflection in C#
 
-- https://lnkd.in/dWQhY4KG
+👉 https://lnkd.in/duH2dniY
 
-- https://lnkd.in/dzPbWihq
+👉 https://lnkd.in/dWQhY4KG
 
-- https://lnkd.in/dZ_N_yYw
+👉 https://lnkd.in/dzPbWihq
+
+👉 https://lnkd.in/dZ_N_yYw
+
 
 ### Windows APIs
 
@@ -557,70 +562,78 @@ https://lnkd.in/ef_wgGex
 ## SOC
 
 👉 𝗦𝗞𝗜𝗟𝗟𝗦
-🌟 Skills level 1 and level 2 by Sohail Patel
+👉 Skills level 1 and level 2 by Sohail Patel
+
 ✅L1: https://lnkd.in/ehVKvr3n
 ✅L2: https://lnkd.in/eV54kdbZ
 
 👉 𝗖𝗔𝗥𝗘𝗘𝗥
-🌟Want a Cyber Career as a SOC Analyst by Mike Miller
+
+👉Want a Cyber Career as a SOC Analyst by Mike Miller
 https://lnkd.in/e-K2cnuR
  
-🌟A Day in the life of SOC: Wicys Webinar Amina A.
+👉A Day in the life of SOC: Wicys Webinar Amina A.
 https://lnkd.in/ekA-nuiM
 
-🌟A TYPICAL Day in the LIFE - TechTual chatter
+👉A TYPICAL Day in the LIFE - TechTual chatter
 https://lnkd.in/ewZF6ZMW
 
-🌟Before you work in a SOC, Watch This by 👉🏼 Gerald Auger, Ph.D. with Brandon Poole
+👉Before you work in a SOC, Watch This by 👉🏼 Gerald Auger, Ph.D. with Brandon Poole
 https://lnkd.in/ewtBCAtA
 
 👉 𝗦𝗧𝗨𝗗𝗬
-🌟SOC Analyst study Guide by Jay Jay Davey
+
+👉SOC Analyst study Guide by Jay Jay Davey
 https://lnkd.in/eezmcAfX
 
-🌟 SOC Analyst learning Path on letsdefend
+👉 SOC Analyst learning Path on letsdefend
 https://lnkd.in/e3iPvP8y
 
-🌟Security Operation Center [People] - Certs & Courses to SOC by Joas A Santos
+👉Security Operation Center [People] - Certs & Courses to SOC by Joas A Santos
 https://lnkd.in/eJMvB_6y 
 
-🌟SOC study and career Joas A Santos
+👉SOC study and career Joas A Santos
 https://lnkd.in/ewqnDv43
 
 👉 𝗛𝗔𝗡𝗗𝗦 𝗢𝗡 - 𝗕𝗨𝗜𝗟𝗗 𝗔 𝗦𝗢𝗖
-🌟World's Best SIEM Stack by Taylor Walton
+
+
+👉World's Best SIEM Stack by Taylor Walton
 https://lnkd.in/ePjbSP9A
 
-🌟Low cost soc by Joas A Santos
+👉Low cost soc by Joas A Santos
 https://lnkd.in/e-WtUxRb
 
-🌟Build own SIEM tool with open source by SOCFortress
+👉Build own SIEM tool with open source by SOCFortress
 https://lnkd.in/eghABBmj
 
-🌟The Cheapest Way to Become a Cybersecurity Pro: Get Your SOC Analyst Journey Started Now! - Gerald Auger
+👉The Cheapest Way to Become a Cybersecurity Pro: Get Your SOC Analyst Journey Started Now! - Gerald Auger
 https://lnkd.in/eZmpZ2A4
 
-🌟 Cybersecurity Playbook for SOC
+👉 Cybersecurity Playbook for SOC
 https://lnkd.in/ebxdg5eD
 
+
 👉𝗚𝗘𝗧 𝗥𝗘𝗔𝗗𝗬 𝗙𝗢𝗥 𝗧𝗛𝗘 𝗜𝗡𝗧𝗘𝗥𝗩𝗜𝗘𝗪
-🌟 Interview Questions - Hackthebox
+
+👉 Interview Questions - Hackthebox
 https://lnkd.in/efEug4xb
 
-🌟SOC Analyst Interview questions - Let’s defend
+👉SOC Analyst Interview questions - Let’s defend
 https://lnkd.in/eSdqn-ub
 
-🌟SOC Analyst interview Q&A Ken Underhill
+👉SOC Analyst interview Q&A Ken Underhill
 https://lnkd.in/ekYTDYZj
 
-🌟12 Incredible SOC Analyst Interview Q&A by Gerald Auger
+👉12 Incredible SOC Analyst Interview Q&A by Gerald Auger
 https://lnkd.in/ei2PXakS
 
 👉𝗥𝗘𝗦𝗢𝗨𝗥𝗖𝗘𝗦
-🌟Awesome soc by cyb3rxp
+
+👉Awesome soc by cyb3rxp
 https://lnkd.in/eTppaaRh
 
-🌟Blue Team Resources SOC Analyst by Micah’s 0-day
+👉Blue Team Resources SOC Analyst by Micah’s 0-day
 https://lnkd.in/eFNQxjKn
 
 
@@ -728,7 +741,7 @@ https://lnkd.in/d4r6myav
 ## Roadmap
 
                                                                     
-![Logo Markdown](img/Controle de Acesso.jpg) 
+![Logo Markdown](img/Acesso.jpg) 
                                                            
 ![Logo Markdown](img/CyberSecurityCertifications.jpeg) 
                                                  
@@ -736,9 +749,9 @@ https://lnkd.in/d4r6myav
                                                  
 ![Logo Markdown](img/Defense_Linux.jpeg)
                                                                 
-![Logo Markdown](img/Distribuições Linux.jpg)
+![Logo Markdown](img/Distro.jpg)
                                                                                                            
-![Logo Markdown](img/DNS Cache.jpeg)
+![Logo Markdown](img/DNS.jpeg)
                                                                     
 ![Logo Markdown](img/Linux_Security.jpg) 
                                                                
@@ -752,7 +765,7 @@ https://lnkd.in/d4r6myav
                                                                    
 ![Logo Markdown](img/Ports_Security.jpeg) 
                                                                                                                                  
-![Logo Markdown](img/Username OSSINT.jpg)
+![Logo Markdown](img/OSSINT.jpg)
 
 
 
